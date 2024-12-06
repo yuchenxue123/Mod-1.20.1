@@ -47,9 +47,9 @@ public class ModRecipesProvider extends FabricRecipeProvider {
 
     private void createSword(Consumer<RecipeJsonProvider> consumer, Item input, Item output) {
         ShapedRecipeJsonBuilder.create(RecipeCategory.COMBAT, output)
-                .pattern(" # ")
-                .pattern(" # ")
-                .pattern(" S ")
+                .pattern("#")
+                .pattern("#")
+                .pattern("S")
                 .input('#', input)
                 .input('S', Items.STICK)
                 .criterion(hasItem(input), conditionsFromItem(input))
