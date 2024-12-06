@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " # ",
+    "IFI"
+  ],
+  "result": {
+    "item": "miners-heaven:portal_ignite"
+  },
+  "show_notification": true
+}

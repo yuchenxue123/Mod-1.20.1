@@ -1,0 +1,10 @@
+// 1.20.1	2024-12-04T19:56:09.5551539	Miners Heaven/Tags for minecraft:block
+8739b13e714eb65b8bf7a3e0806425e28bb125b1 data\minecraft\tags\blocks\mineable\pickaxe.json
+8739b13e714eb65b8bf7a3e0806425e28bb125b1 data\minecraft\tags\blocks\needs_iron_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\miners-heaven\tags\blocks\needs_opal_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\fabric\tags\blocks\needs_tool_level_4.json

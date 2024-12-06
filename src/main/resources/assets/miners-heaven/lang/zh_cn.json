@@ -1,0 +1,14 @@
+{
+  "itemGroup.miners": "矿工天堂",
+
+  "item.miners-heaven.opal": "蛋白石",
+  "item.miners-heaven.portal_ignite": "传送门点火器",
+  "item.miners-heaven.opal_sword": "蛋白剑",
+  "item.miners-heaven.opal_pickaxe": "蛋白镐",
+  "item.miners-heaven.opal_axe": "蛋白斧",
+  "item.miners-heaven.opal_hoe": "蛋白锄",
+  "item.miners-heaven.opal_shovel": "蛋白铲",
+
+  "block.miners-heaven.opal_ore": "蛋白矿石",
+  "block.miners-heaven.opal_block": "蛋白石块"
+}

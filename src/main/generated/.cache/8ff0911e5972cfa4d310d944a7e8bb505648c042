@@ -1,0 +1,14 @@
+// 1.20.1	2024-12-04T19:56:09.5579424	Miners Heaven/Model Definitions
+ec505f4f91b999fd83ba83725bbffbb53c35af23 assets\miners-heaven\models\item\opal_block.json
+342cf915c5d08989dde58811d3428fc215353e36 assets\miners-heaven\models\item\opal_pickaxe.json
+a68f310e9a578fd0db43874dc064b612d4bb22ef assets\miners-heaven\models\block\opal_ore.json
+d0c5896115f8fea77856f2582b3ed926427ba53a assets\miners-heaven\models\item\opal.json
+071acc2fbf01b4e2c4dc0bee1d2c4fec2b7d8518 assets\miners-heaven\models\item\opal_shovel.json
+cb4e08ffd88e144617e9f300a032ce37478bc41e assets\miners-heaven\models\item\opal_ore.json
+43070504b7281d21b35cccaa9f9d397ff163bb05 assets\miners-heaven\models\item\portal_ignite.json
+a7882232d3ee033903fc479743c05fb704f25e81 assets\miners-heaven\models\item\opal_hoe.json
+d10eb9d61ecad445300abd7730b9fc16770b6018 assets\miners-heaven\models\item\opal_sword.json
+559e9b4853c18d84fe42dd83addfdae3f79b7a8e assets\miners-heaven\models\item\opal_axe.json
+62bbd894b3c8aa07dc30b505261b4fc70c7eb0c2 assets\miners-heaven\blockstates\opal_ore.json
+3b25b3f420769ccfa7ec69280a553111b5096421 assets\miners-heaven\blockstates\opal_block.json
+3c9c4be2398f69b980f9da009e83677f5d33b95b assets\miners-heaven\models\block\opal_block.json

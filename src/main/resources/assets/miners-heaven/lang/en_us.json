@@ -1,0 +1,14 @@
+{
+  "itemGroup.miners": "Miners Heaven",
+
+  "item.miners-heaven.opal": "Opal",
+  "item.miners-heaven.portal_ignite": "Portal Ignite",
+  "item.miners-heaven.opal_sword": "Opal Sword",
+  "item.miners-heaven.opal_pickaxe": "Opal Pickaxe",
+  "item.miners-heaven.opal_axe": "Opal Axe",
+  "item.miners-heaven.opal_hoe": "Opal Hoe",
+  "item.miners-heaven.opal_shovel": "Opal Shovel",
+
+  "block.miners-heaven.opal_ore": "Opal Ore",
+  "block.miners-heaven.opal_block": "Opal Block"
+}
